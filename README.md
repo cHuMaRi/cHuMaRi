@@ -1,5 +1,11 @@
-### Hi, I'm José María, a Software Developer 👋
+### Hi, I'm José María 👋
 #### I'm a Full Stack .NET Developer and SQL Server Administrator... IT guy and problem solving lover!
+
+If you want to get in touch:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-mar%C3%ADa-romero-m%C3%A1rquez-7951b76b/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chumari23)
+
 
 ## 🚀 Skills
 
